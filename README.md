@@ -1,16 +1,13 @@
 
-
-[![(https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)](https://github.com/mdrabiulis/mdrabiulis/blob/mdrabiulis/Abstract_background.png "Click here go to facebook")](https://www.facebook.com/rabiulislam155)
-
-
+<!-- background img -->
+[![](https://github.com/mdrabiulis/mdrabiulis/blob/mdrabiulis/Abstract_background.png "Click here go to facebook")](https://www.facebook.com/rabiulislam155)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrabiulis&theme=merko&dates=AD63EB)](https://git.io/streak-stats)
+<!-- Streak img -->
+
+--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrabiulis&theme=merko&dates=AD63EB)](https://git.io/streak-stats)
 
 
-<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io) -->
-
-<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis_id}/langs)] -->
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdrabiulis/repos?time_range=one_year&theme=classic)](https://www.githubwrapped.io/mdrabiulis)
