@@ -5,8 +5,7 @@
 
 <!-- Streak img -->
 
- ##  
- [](https://github.com/mdrabiulis/mdrabiulis/blob/mdrabiulis/bgImage/MongoDB.png)GitHub Stats 
+ ## ![GitHub Stats ](https://github.com/mdrabiulis/mdrabiulis/blob/mdrabiulis/bgImage/MongoDB.png)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrabiulis&theme=merko&dates=AD63EB)](https://git.io/streak-stats)
 
