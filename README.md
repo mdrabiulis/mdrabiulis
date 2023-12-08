@@ -4,8 +4,7 @@
 
 
 
-[![GitHub Trends SVG](https://github.com/mdrabiulis)](https://githubtrends.io)
-
+https://api.githubtrends.io/user/svg/%7Bmdrabiulis%7D/langs
 
 ### Hi there 👋
 
