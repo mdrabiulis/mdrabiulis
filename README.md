@@ -10,10 +10,10 @@
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io) -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis_id}/langs)]
+<!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis_id}/langs)] -->
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdrabiulis/langs)](https://www.githubwrapped.io/mdrabiulis)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdrabiulis/repos?time_range=one_year&theme=classic)](https://www.githubwrapped.io/mdrabiulis)
 
 ### Hi there 👋
 
