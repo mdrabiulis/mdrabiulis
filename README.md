@@ -5,7 +5,7 @@
 
 <!-- Streak img -->
 
- # [https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg]GitHub Stats 
+ # [](https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg)GitHub Stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrabiulis&theme=merko&dates=AD63EB)](https://git.io/streak-stats)
 
