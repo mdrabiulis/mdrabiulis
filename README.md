@@ -10,7 +10,7 @@
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io) -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis_id}/langs)](https://www.githubwrapped.io/mdrabiulis)
+[![GitHub Trends SVG](https://www.githubwrapped.io/mdrabiulis)](https://www.githubwrapped.io/mdrabiulis)
 
 
 ### Hi there 👋
