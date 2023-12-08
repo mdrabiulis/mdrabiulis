@@ -4,7 +4,8 @@
 
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis}/langs)](https://www.githubwrapped.io/mdrabiulis)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis}/langs)](https://www.githubwrapped.io/mdrabiulis)(https://githubtrends.io)
+
 
 ### Hi there 👋
 
