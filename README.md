@@ -1,6 +1,6 @@
 
+![Tux, the Linux mascot](https://raw.githubusercontent.com/mdrabiulis/mdrabiulis/mdrabiulis/bgImage/holi-color-background-white-background_24972-1830.jpg)
 
-[sd](https://raw.githubusercontent.com/mdrabiulis/mdrabiulis/mdrabiulis/bgImage/holi-color-background-white-background_24972-1830.jpg)
 
 
 ### Hi there 👋
