@@ -4,7 +4,7 @@
 
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://www.githubwrapped.io/avgupta456)](https://githubtrends.io)
 
 ### Hi there 👋
 
