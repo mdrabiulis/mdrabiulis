@@ -1,6 +1,6 @@
 
 
-Technologies that I knowg
+[https://raw.githubusercontent.com/mdrabiulis/mdrabiulis/mdrabiulis/bgImage/holi-color-background-white-background_24972-1830.jpg](https://eff.org)
 
 
 ### Hi there 👋
