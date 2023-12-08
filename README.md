@@ -13,7 +13,7 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis_id}/langs)](https://www.githubwrapped.io/mdrabiulis)
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdrabiulis/langs?time_range=one_year&theme=classic)](https://githubtrends.io)
 
 ### Hi there 👋
 
