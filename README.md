@@ -5,12 +5,12 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrabiulis&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrabiulis&theme=merko&dates=AD63EB)](https://git.io/streak-stats)
 
 
 <!-- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io) -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis}/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/{mdrabiulis_id}/langs)](https://www.githubwrapped.io/mdrabiulis)
 
 
 ### Hi there 👋
