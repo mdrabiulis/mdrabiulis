@@ -18,6 +18,7 @@
 ## My Skills & Technologies that I know
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,tailwind,vite,vscode,firebase,git,github,mongodb,netlify,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,tailwind,vite,vscode,firebase,git,github,mongodb,netlify,)](https://skillicons.dev)
 
 
 
