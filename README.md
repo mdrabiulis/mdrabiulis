@@ -11,12 +11,15 @@
 
 
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdrabiulis/repos?time_range=one_year&theme=classic)](https://www.githubwrapped.io/mdrabiulis)
+
+
+
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,tailwind,vite,vscode,firebase,git,github,mongodb,netlify,)](https://skillicons.dev)
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdrabiulis/repos?time_range=one_year&theme=classic)](https://www.githubwrapped.io/mdrabiulis)
 
 ### Hi there 👋
 
