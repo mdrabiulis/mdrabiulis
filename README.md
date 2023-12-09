@@ -5,7 +5,7 @@
 
 <!-- Streak img -->
 
- ## GitHub Stats
+ ## Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrabiulis&theme=merko&dates=AD63EB)](https://git.io/streak-stats)
 
@@ -15,7 +15,7 @@
 
 
 
-## My Skills
+## My Skills & Technologies that I know
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,tailwind,vite,vscode,firebase,git,github,mongodb,netlify,)](https://skillicons.dev)
 
