@@ -16,9 +16,6 @@
 
 
 ## Social Media
-![facebook](./iiii/Facebook.png)
-![facebook](./iiii/702300.png)
-![facebook](./iiii/pngegg%20(8).png)
 
 
 ## My Skills & Technologies that I know
