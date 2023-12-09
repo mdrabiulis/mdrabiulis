@@ -15,6 +15,12 @@
 
 
 
+## Social Media
+![facebook](./iiii/Facebook.png)
+![facebook](./iiii/702300.png)
+![facebook](./iiii/pngegg%20(8).png)
+
+
 ## My Skills & Technologies that I know
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,figma,nodejs,tailwind,vite)](https://skillicons.dev)
