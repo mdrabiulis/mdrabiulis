@@ -5,11 +5,15 @@
 
 <!-- Streak img -->
 
- ## ![](https://github.com/mdrabiulis/mdrabiulis/blob/mdrabiulis/bgImage/MongoDB.png) GitHub Stats
+ ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdrabiulis&theme=merko&dates=AD63EB)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,tailwind,vite,vscode,firebase,git,github,mongodb,netlify,)](https://skillicons.dev)
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdrabiulis/repos?time_range=one_year&theme=classic)](https://www.githubwrapped.io/mdrabiulis)
